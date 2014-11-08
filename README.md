@@ -9,7 +9,7 @@ Why?
 
 Everyone needs to review their data structures every couple of years. I 
 have the book and figured it would be a great exercise. Also, the book 
-is a not expensive; it is a Schaum's Outline. The ISBN is 0-07-136128-6
+is not expensive; it is a Schaum's Outline. The ISBN is 0-07-136128-6
 
 How?
 ====
